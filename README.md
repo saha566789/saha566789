@@ -8,8 +8,9 @@
 - Transforming ideas into digital wonders .
 - Passionate about elegant code and seamless user experiences.💻✨ 
 ### 💻 Technologies that I know
-
+<p align="center">
   <a href="https://skillicons.dev">
-    <img width="50%"  src="https://skillicons.dev/icons?i=html,css,react" />
-    <img width="50%"  src="https://skillicons.dev/icons?i=firebase,nodejs,tailwind" />
+    <img width="40%"  src="https://skillicons.dev/icons?i=html,css,react,firebase,nodejs,tailwind" />
+   
   </a>
+</p>
