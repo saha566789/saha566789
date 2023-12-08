@@ -1,5 +1,5 @@
 
-![Cover Image](Addaheading.png)
+![Cover Image](githubCover.png)
 ### 💼 What can i do
 - MERN Stack Maestro 🧙
 - Full-stack Alchemist 🌐 
