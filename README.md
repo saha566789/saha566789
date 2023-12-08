@@ -1,3 +1,5 @@
+
+![Cover Image](coverPic.png)
 ### 💼 What can i do
 - MERN Stack Maestro 🧙
 - Full-stack Alchemist 🌐 
