@@ -1,7 +1,7 @@
 
 ![Cover Image](githubCover.png)
 ### 🤷‍♀️About
-- 🧙 I am a web developer. 
+- 🙋‍♀️ I am a web developer. 
 - ⚛️ React.js Sorcerer for dynamic front-ends 
 - 🚀 Node.js Wizard crafting powerful backends 
 - 🎨 HTML, CSS, Tailwind Architect  
@@ -16,4 +16,12 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saha566789&theme=transparent&mode=weekly&exclude_days=Sun%2CMon%2CWed&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saha566789&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saha566789&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saha566789&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=saha566789&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
