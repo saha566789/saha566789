@@ -1,13 +1,16 @@
 
 ![Cover Image](coverGit.png)
-# 🤷‍♀️About
-- 🙋‍♀️ I am a web developer. 
-- ⚛️ React.js Sorcerer for dynamic front-ends 
-- 🚀 Node.js Wizard crafting powerful backends 
-- 🎨 HTML, CSS, Tailwind Architect  
-- 🔥 Firebase & MongoDB Conductor for real-time and database sorcery 
-- ✨ Transforming ideas into digital wonders .
-- 💻 Passionate about elegant code and seamless user experiences. 
+# 🙎‍♀️About
+🔭 I’m currently working - on a library management
+
+🌱 I’m currently learning - Next Js , Mongoose
+
+💬 Ask me about - Reactjs, Firebase,tailwind css
+
+👯 I’m looking to collaborate on - MERN Stack projects.
+
+⚡ Fun fact I love to watch - travelling.
+
 # 💻 Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
