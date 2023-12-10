@@ -1,5 +1,5 @@
 
-![Cover Image](githubCover.png)
+![Cover Image](gitgitf.mp4)
 # 🤷‍♀️About
 - 🙋‍♀️ I am a web developer. 
 - ⚛️ React.js Sorcerer for dynamic front-ends 
